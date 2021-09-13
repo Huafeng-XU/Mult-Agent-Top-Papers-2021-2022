@@ -21,4 +21,7 @@
 * [Contrasting Centralized and Decentralized Critics in Multi-Agent Reinforcement Learning](https://www.ifaamas.org/Proceedings/aamas2021/pdfs/p844.pdf) 2021 **Reinforcement Learning**
 * [Modeling the Interaction between Agents in Cooperative Multi-Agent Reinforcement Learning](https://www.ifaamas.org/Proceedings/aamas2021/pdfs/p853.pdf) 2021 **Reinforcement Learning**
 * [Reward Machines for Cooperative Multi-Agent Reinforcement Learning](https://www.ifaamas.org/Proceedings/aamas2021/pdfs/p934.pdf) 2021 **Reinforcement Learning**
+* [Multi-Agent Graph-Attention Communication and Teaming](https://www.ifaamas.org/Proceedings/aamas2021/pdfs/p964.pdf) 2021 **Communication**
+* [Cooperative and Competitive Biases for Multi-Agent Reinforcement Learning](https://www.ifaamas.org/Proceedings/aamas2021/pdfs/p1091.pdf) 2021 **Reinforcement Learning**
+* [A Logic of Inferable in Multi-Agent Systems with Budget and Costs](https://www.ifaamas.org/Proceedings/aamas2021/pdfs/p1483.pdf) 2021 **Logical Framework**
 
