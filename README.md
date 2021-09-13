@@ -13,6 +13,6 @@
 * [A Heuristic Algorithm for Multi-Agent Vehicle Routing with Automated Negotiation](https://www.ifaamas.org/Proceedings/aamas2021/pdfs/p404.pdf) 2021 **Tree Search**
 * [Learning Correlated Communication Topology in Multi-Agent Reinforcement learning](https://www.ifaamas.org/Proceedings/aamas2021/pdfs/p456.pdf) 2021 **Reinforcement Learning**
 * [An Abstraction-based Method to Check Multi-Agent Deep Reinforcement-Learning Behaviors](https://www.ifaamas.org/Proceedings/aamas2021/pdfs/p474.pdf) 2021 **Reinforcement Learning**
-* [Safe Multi-Agent Reinforcement Learning via Shielding](https://www.ifaamas.org/Proceedings/aamas2021/pdfs/p483.pdf) 2021 **Reinforcement Learning** __Grid Map__
+* [Safe Multi-Agent Reinforcement Learning via Shielding](https://www.ifaamas.org/Proceedings/aamas2021/pdfs/p483.pdf) 2021 **Reinforcement Learning** Grid Map
 * []
 * 
