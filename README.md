@@ -7,4 +7,4 @@
 ## AAAI
 
 ## AAMAS
-* [Multi-Agent Coordination in Adversarial Environments through Signal Mediated Strategies](https://www.ifaamas.org/Proceedings/aamas2021/pdfs/p269.pdf) by Cacciamani, Federico, et al.
+* [Multi-Agent Coordination in Adversarial Environments through Signal Mediated Strategies](https://www.ifaamas.org/Proceedings/aamas2021/pdfs/p269.pdf) 2021 Cacciamani, Federico, et al.
