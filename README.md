@@ -6,6 +6,7 @@
 * [AAMAS](https://github.com/Huafeng-XU/Mult-Agent-Top-Papers-2021-2022#aamas)
 
 ## AAAI
+* [Lifelong Multi-Agent Path Finding in Large-Scale Warehouses](https://www.aaai.org/AAAI21Papers/AAAI-563.LiJ.pdf) 2021 **Lifelong**
 * In coming......
 
 ## ICRA
