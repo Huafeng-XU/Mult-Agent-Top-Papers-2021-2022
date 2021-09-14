@@ -2,10 +2,14 @@
 
 ## Top Conference
 * [AAAI](https://github.com/Huafeng-XU/Mult-Agent-Top-Papers-2021-2022#aaai)
+* [ICRA](https://github.com/Huafeng-XU/Mult-Agent-Top-Papers-2021-2022#icra)
 * [AAMAS](https://github.com/Huafeng-XU/Mult-Agent-Top-Papers-2021-2022#aamas)
 
 ## AAAI
 * In coming......
+
+## ICRA
+* [Situational Confidence Assistance for Lifelong Shared Autonomy](https://arxiv.org/pdf/2104.06556.pdf) 2021 **Lifelong**
 ## AAMAS
 * [Multi-Agent Coordination in Adversarial Environments through Signal Mediated Strategies](https://www.ifaamas.org/Proceedings/aamas2021/pdfs/p269.pdf) 2021 **Reinforcement Learning**
 * [A General Trust Framework for Multi-Agent Systems](https://www.ifaamas.org/Proceedings/aamas2021/pdfs/p332.pdf) 2021 **Reinforcement Learning**
