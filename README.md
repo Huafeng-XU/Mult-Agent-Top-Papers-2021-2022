@@ -3,6 +3,7 @@
 ## Top Conference
 * [AAAI](https://github.com/Huafeng-XU/Mult-Agent-Top-Papers-2021-2022#aaai)
 * [ICRA](https://github.com/Huafeng-XU/Mult-Agent-Top-Papers-2021-2022#icra)
+* [IROS](https://github.com/Huafeng-XU/Mult-Agent-Top-Papers-2021-2022#iros)
 * [AAMAS](https://github.com/Huafeng-XU/Mult-Agent-Top-Papers-2021-2022#aamas)
 
 ## AAAI
@@ -12,6 +13,11 @@
 ## ICRA
 * [Situational Confidence Assistance for Lifelong Shared Autonomy](https://arxiv.org/pdf/2104.06556.pdf) 2021 **Lifelong**
 * [Optimal Sequential Stochastic Deployment of Multiple Passenger ](http://research.engr.oregonstate.edu/rdml/sites/research.engr.oregonstate.edu.rdml/files/icra21_home_papercept_ras.papercept.net_www_conferences_conferences_icra21_submissions_0513_fi.pdf) **Best Paper**
+
+## IROS
+* [MAPPER: Multi-Agent Path Planning with Evolutionary Reinforcement Learning in Mixed Dynamic Environments](https://arxiv.org/pdf/2007.15724.pdf) **Path Planning**
+* In coming......
+
 ## AAMAS
 * [Multi-Agent Coordination in Adversarial Environments through Signal Mediated Strategies](https://www.ifaamas.org/Proceedings/aamas2021/pdfs/p269.pdf) 2021 **Reinforcement Learning**
 * [A General Trust Framework for Multi-Agent Systems](https://www.ifaamas.org/Proceedings/aamas2021/pdfs/p332.pdf) 2021 **Reinforcement Learning**
